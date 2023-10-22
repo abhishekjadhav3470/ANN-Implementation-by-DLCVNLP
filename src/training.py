@@ -3,7 +3,7 @@ from src.utils.common import read_config
 from src.utils.data_mgmt import get_data
 from src.utils.model import create_model, save_model
 from src.utils.callbacks import get_callbacks
-from utils.common import read_config
+from src.utils.common import read_config
 
 import argparse
 
