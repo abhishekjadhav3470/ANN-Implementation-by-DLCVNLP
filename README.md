@@ -7,13 +7,13 @@ ANN-implementation-DLCVNLP-demo
 ### creating envs -
 
 ```bash
-conda create --prefix ./envs python=3.7 -y
+conda create --prefix ./venv python=3.9 -y
 ```
 
 ### activate env
 
-```bash
-conda activate ./envs
+```cmd
+conda activate ./venv
 ```
 
 ## Reference -
